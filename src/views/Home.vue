@@ -407,7 +407,7 @@
           <img class="rounded-3xl opacity-90" src="../assets/Rocket.png" />
         </div>
         <div class="lg:order-1 flex flex-col items-center justify-center">
-          <img src="../assets/Rocket.svg" alt="" class="h-24 mb-6" />
+          <img src="../assets/Rocket.svg" alt="" class="h-24 mt-6 mb-6" />
           <p class="px-6 pb-20 md:p-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
@@ -419,7 +419,7 @@
           <img class="rounded-3xl opacity-90" src="../assets/Ringo.png" />
         </div>
         <div class="flex flex-col items-center justify-center">
-          <img src="../assets/Ringo.svg" class="h-24 mb-6" />
+          <img src="../assets/Ringo.svg" class="h-24 mt-6 mb-6" />
           <p class="px-6 pb-20 md:p-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
@@ -474,13 +474,26 @@
     </div>
   </section>
 
-  <section class="container mx-auto mt-32 mb-32">
-    <div class="mx-auto mb-12 px-4">
+  <section class="container mx-auto mt-32 mb-12">
+    <div class="mx-auto mb-4 px-4">
       <h3
-        class="xl:text-xl text-lg text-center text-pink font-bold uppercase px-4"
+        class="xl:text-3xl text-xl text-center text-pink font-bold uppercase px-4"
       >
       L’aventure Tagada Bike a germé au sein du studio de Juicy Creation
       </h3>
+    </div>
+    <div class="mx-auto flex items-center justify-center px-20 py-5">
+      <a
+        class="pb-2"
+        target="_blank"
+        href="https://www.instagram.com/juicy_creation/?hl=fr"
+      >
+        <img
+          class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
+          src="../assets/Instagram-Tagadabike.svg"
+          alt=""
+        />
+      </a>
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center">
       <div class="w-full lg:w-1/2 px-6">
@@ -508,7 +521,7 @@
   </section>
 
   <div class="flex flex-col lg:flex-row items-center justify-center pb-12">
-    <a href="https://juicycreation.fr/">
+    <a href="https://juicycreation.fr/" target="_blank">
       <img
         src="../assets/Logo-Juicy-gold.jpg"
         alt=""
@@ -548,7 +561,7 @@
     class="flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
   > 
     <div class="container flex flex-col lg:flex-row items-center justify-between px-12">
-      <div class="w-full lg:w-3/12 text-left text-sm">
+      <div class="w-full pb-6 lg-pb-0 lg:w-3/12 text-center lg:text-left text-sm">
         <h4 class="font-bold uppercase pb-2">Le quinté gagnant</h4>
         <ul>
           <li>Agence évènementielle</li>
@@ -557,11 +570,11 @@
           <li>Retail – Grande Distribution</li>
         </ul>
       </div>
-      <div class="w-full lg:w-3/12 text-center text-sm">
-        <span class="uppercase">triporteurs éco-conçus pour événements à votre image</span><br/>
-        <span class="uppercase">Parier comporte des risques, sauf avec Tagada Bike</span>
+      <div class="w-full pb-6 lg-pb-0 lg:w-3/12 text-center text-sm">
+        <span class="uppercase font-bold mb-4">triporteurs éco-conçus pour événements à votre image</span><br/>
+        <span class="text-xs">* Parier comporte des risques, sauf avec Tagada Bike</span>
       </div>
-      <div class="w-full lg:w-3/12 text-right text-sm">
+      <div class="w-full lg:w-3/12 text-center lg:text-right text-sm">
         <h4 class="font-bold uppercase pb-2">pas de formulaire à remplir</h4>
         <span>Vous avez déjà bien à faire, à nous de cravacher</span><br/>
         <span>Alors appelez nous, whatsappez nous, mailez-nous et on vous répondra au galop</span>
