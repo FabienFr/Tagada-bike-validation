@@ -498,10 +498,10 @@
       </div>
       <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr">
         <div class="grid grid-cols-2 pt-12 lg:pt-0">
-          <img class="object-cover object-center w-28 h-28" src="../assets/insta1.jpg" alt="">
-          <img class="object-cover object-center w-28 h-28" src="../assets/insta2.jpg" alt="">
-          <img class="object-cover object-center w-28 h-28" src="../assets/insta3.jpg" alt="">
-          <img class="object-cover object-center w-28 h-28" src="../assets/insta4.jpg" alt="">
+          <img class="object-cover object-center w-28 h-28" src="../assets/Insta1.jpg" alt="">
+          <img class="object-cover object-center w-28 h-28" src="../assets/Insta2.jpg" alt="">
+          <img class="object-cover object-center w-28 h-28" src="../assets/Insta3.jpg" alt="">
+          <img class="object-cover object-center w-28 h-28" src="../assets/Insta4.jpg" alt="">
         </div>
       </a>
     </div>
