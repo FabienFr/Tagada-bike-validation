@@ -363,7 +363,7 @@
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
           <span class="text-white text-lg text-center pb-4"
-            >Et bien plus encore...</span
+            >Et toute notre DECO...</span
           >
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
@@ -507,18 +507,20 @@
     </div>
   </section>
 
-  <!-- <div class="flex flex-row items-center justify-center pb-12">
-    <img
-      src="../assets/Logo-Juicy-gold.jpg"
-      alt=""
-      class="h-16 pb-2"
-    />
+  <div class="flex flex-col lg:flex-row items-center justify-center pb-12">
+    <a href="https://juicycreation.fr/">
+      <img
+        src="../assets/Logo-Juicy-gold.jpg"
+        alt=""
+        class="h-14 pb-2"
+      />
+    </a>
     <span
       class="font-extrabold text-gray-400 text-4xl py-6 lg:py-0 px-6 mb-6"
       >X</span
     >
-    <img class="h-24 py-2" src="../assets/Logo-Tagada.svg" alt="" />
-  </div> -->
+    <img class="h-20 py-2" src="../assets/Logo-Tagada.svg" alt="" />
+  </div>
 
   <!-- <section class="mb-20 ">
       <div class="mx-auto pt-32 mb-12">
@@ -565,16 +567,5 @@
         <span>Alors appelez nous, whatsappez nous, mailez-nous et on vous répondra au galop</span>
       </div>
     </div>
-
-    <!-- <div>
-      <a href="https://juicycreation.fr/#qode-home-v2" target="_blank">
-        <img src="../assets/juicy_logo_noir-compressor.png" class="h-12" alt="" />
-      </a>
-    </div>
-    <div class="">
-      <a href="https://www.instagram.com/juicy_creation/?hl=fr" target="_blank">
-        <img class="h-20 mt-2" src="../assets/icons8-instagram.svg" alt="" />
-      </a>
-    </div> -->
   </footer>
 </template>
