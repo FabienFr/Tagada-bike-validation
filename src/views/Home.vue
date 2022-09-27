@@ -489,7 +489,7 @@
         href="https://www.instagram.com/juicy_creation/?hl=fr"
       >
         <img
-          class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
+          class="h-14 transition hover:duration-500 ease-in-out hover:scale-125 fill-pink"
           src="../assets/Instagram-Tagadabike.svg"
           alt=""
         />
@@ -560,24 +560,24 @@
   <footer text-center
     class="flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
   > 
-    <div class="container flex flex-col lg:flex-row items-center justify-between px-12">
-      <div class="w-full pb-6 lg-pb-0 lg:w-3/12 text-center lg:text-left text-sm">
-        <h4 class="font-bold uppercase pb-2">Le quinté gagnant</h4>
-        <ul>
+    <div class="container flex flex-col lg:flex-row items-start justify-between px-12">
+      <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm">
+        <h4 class="text-white font-bold uppercase pb-2">Le quinté gagnant</h4>
+        <ul class="text-white text-xs lg:text-sm lg:list-disc">
           <li>Agence évènementielle</li>
           <li>Traiteur – Restauration – Hôtellerie</li>
           <li>Festival – Rassemblement festif</li>
           <li>Retail – Grande Distribution</li>
         </ul>
       </div>
-      <div class="w-full pb-6 lg-pb-0 lg:w-3/12 text-center text-sm">
-        <span class="uppercase font-bold mb-4">triporteurs éco-conçus pour événements à votre image</span><br/>
-        <span class="text-xs">* Parier comporte des risques, sauf avec Tagada Bike</span>
+      <div class="w-full pb-10 lg-pb-0 lg:w-3/12 text-center text-sm">
+        <h4 class="text-white uppercase font-bold">triporteurs éco-conçus pour événements à votre image</h4><br/>
+        <span class="text-white text-xs italic">* Parier comporte des risques, sauf avec Tagada Bike</span>
       </div>
-      <div class="w-full lg:w-3/12 text-center lg:text-right text-sm">
-        <h4 class="font-bold uppercase pb-2">pas de formulaire à remplir</h4>
-        <span>Vous avez déjà bien à faire, à nous de cravacher</span><br/>
-        <span>Alors appelez nous, whatsappez nous, mailez-nous et on vous répondra au galop</span>
+      <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
+        <h4 class="text-white font-bold uppercase pb-2">pas de formulaire à remplir</h4>
+        <span class="text-white text-xs lg:text-sm">Vous avez déjà bien à faire, à nous de cravacher</span><br/>
+        <span class="text-white text-xs lg:text-sm">Alors appelez nous, whatsappez nous, mailez-nous <br/>et on vous répondra au galop !</span>
       </div>
     </div>
   </footer>
