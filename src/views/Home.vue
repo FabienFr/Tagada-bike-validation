@@ -112,6 +112,7 @@
           class="pb-2"
           target="_blank"
           href="https://www.instagram.com/tagadabike/"
+          name="Tagada Bike Instagram"
         >
           <img
             class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
@@ -467,9 +468,9 @@
         />
       </div>
       <div>
-        <h4 class="relative text-3xl font-bold text-gray-800 text-center">
+        <h3 class="relative text-3xl font-bold text-gray-800 text-center">
           Votre imagination est sans limite ?<br />Notre créativité aussi !
-        </h4>
+        </h3>
         <p class="relative pt-8 text-xl text-center uppercase">
           Notre studio de fabrication est à votre écoute pour donner vie à
           <br />vos idées et se tient prêt à agrandir l’écurie selon vos
@@ -526,7 +527,7 @@
           de personnalisation.
         </p>
       </div>
-      <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr">
+      <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr" name="Juicy Création Instagram">
         <div class="grid grid-cols-2 pt-12 lg:pt-0">
           <img class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta1.jpg"  alt="éco-triporteur pour vos énénements - Snowpark - Juicy création">
           <img class="rounded-tr-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta2.jpg" alt="éco-triporteur pour vos énénements - Muggler - Juicy création">
@@ -543,6 +544,7 @@
         class="pb-2"
         target="_blank"
         href="https://www.instagram.com/juicy_creation/?hl=fr"
+        name="Juicy Création Instagram"
       >
         <img
           class="h-14 transition hover:duration-500 ease-in-out hover:scale-125 fill-pink"
