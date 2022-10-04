@@ -9,11 +9,11 @@
             <h4
               class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
             >
-              <a href="#ecurie"> ECURIE </a>
+              <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
             </h4>
           </div>
           <div class="px-6 w-full sm:w-1/2 md:w-1/4">
-            <a href="/">
+            <a href="/" aria-label="Retour à l'accueil">
               <img
                 class="px-8"
                 src="../assets/Logo-Tagada.svg"
@@ -27,6 +27,7 @@
             >
               <a
                 href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
+                aria-label="Contactez-nous !"
               >
                 CONTACT
               </a>
@@ -37,7 +38,7 @@
               <h4
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
               >
-                <a href="#ecurie"> ECURIE </a>
+                <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
               </h4>
             </div>
             <div class="sm:hidden px-6 w-1/2">
@@ -46,6 +47,7 @@
               >
                 <a
                   href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
+                  aria-label="Contactez-nous !"
                 >
                   CONTACT
                 </a>
@@ -113,6 +115,7 @@
           target="_blank"
           href="https://www.instagram.com/tagadabike/"
           name="Tagada Bike Instagram"
+          aria-label="Venez découvrir nos montures sur le champ de course"
         >
           <img
             class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
@@ -508,7 +511,7 @@
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center">
       <div class="w-full lg:w-1/3 px-8 md:px-48 lg:px-6 text-justify">
-        <a href="https://juicycreation.fr/" target="_blank">
+        <a href="https://juicycreation.fr/" name="site web juicy création" aria-label="Venez découvrir les nombreuses créations sur mesure & xxl de nos équipes" target="_blank">
           <img
             src="../assets/Logo-Juicy-gold.jpg"
             alt=""
@@ -527,7 +530,7 @@
           de personnalisation.
         </p>
       </div>
-      <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr" name="Juicy Création Instagram">
+      <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr" name="Juicy Création Instagram" aria-label="Venez découvrir les références de l'équipe pluridsciplinaire de Juicy Création">
         <div class="grid grid-cols-2 pt-12 lg:pt-0">
           <img class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta1.jpg"  alt="éco-triporteur pour vos énénements - Snowpark - Juicy création">
           <img class="rounded-tr-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta2.jpg" alt="éco-triporteur pour vos énénements - Muggler - Juicy création">
@@ -545,6 +548,7 @@
         target="_blank"
         href="https://www.instagram.com/juicy_creation/?hl=fr"
         name="Juicy Création Instagram"
+        aria-label="Venez découvrir sur Instagram nos montures sur le champ de course"
       >
         <img
           class="h-14 transition hover:duration-500 ease-in-out hover:scale-125 fill-pink"
