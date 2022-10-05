@@ -81,23 +81,27 @@
       </div>
     </div>
     <img
+      id="losange1"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-96 lg:top-32 -left-2 lg:left-2 h-20 lg:h-60"
+      class="absolute opacity-80 top-[60px] -left-2 lg:left-2 h-20 lg:h-60"
       alt=""
     />
     <img
+      id="losange2"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-96 lg:top-32 -right-2 lg:right-2 h-20 lg:h-60"
+      class="absolute opacity-80 top-[60px] -right-2 lg:right-2 h-20 lg:h-60"
       alt=""
     />
     <img
+      id="losange3"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 bottom-12 right-12 lg:right-44 h-20 lg:h-60"
+      class="absolute opacity-80 top-[320px] right-12 lg:right-44 h-20 lg:h-60"
       alt=""
     />
     <img
+      id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 bottom-12 left-12 lg:left-44 h-20 lg:h-60"
+      class="absolute opacity-80 top-[320px] left-12 lg:left-44 h-20 lg:h-60"
       alt=""
     />
   </header>
