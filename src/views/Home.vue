@@ -551,19 +551,19 @@
         <img
           id="losangeB"
           src="../assets/LosangeJaune.svg"
-          class="absolute -top-12 -right-10 h-40 xl:h-72"
+          class="absolute -top-[83px] right-2 h-40 xl:h-80"
           alt=""
         />
         <img
           id="losangeC"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-20 right-2 lg:right-60 h-40 xl:h-72"
+          class="absolute -bottom-20 right-2 lg:right-[400px] h-40 xl:h-80"
           alt=""
         />
         <img
           id="losangeD"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-20 left-2 lg:left-60 h-40 xl:h-72"
+          class="absolute -bottom-20 left-2 lg:left-[400px] h-40 xl:h-80"
           alt=""
         />
       </div>

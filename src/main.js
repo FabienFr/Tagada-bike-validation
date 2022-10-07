@@ -22,6 +22,9 @@ let l1,
   p2,
   p3,
   la,
+  lb,
+  lc,
+  ld,
   t1,
   t2,
   t3,
@@ -33,7 +36,10 @@ let l1,
   t9,
   t10,
   t11,
-  t12;
+  t12,
+  t13,
+  t14,
+  t15;
 
 window.addEventListener("DOMContentLoaded", (event) => {
   const dom = (str) => document.getElementById(str);
@@ -61,6 +67,12 @@ window.addEventListener("DOMContentLoaded", (event) => {
   t11 = p3.offsetTop;
   la = dom("losangeA");
   t12 = la.offsetTop;
+  lb = dom("losangeB");
+  t13 = lb.offsetTop;
+  lc = dom("losangeC");
+  t14 = lc.offsetTop;
+  ld = dom("losangeD");
+  t15 = ld.offsetTop;
 });
 
 window.addEventListener("scroll", function () {
@@ -79,7 +91,11 @@ window.addEventListener("scroll", function () {
   p1.style.top = t9 + y * 0.3 + "px";
   p2.style.top = t10 + y * 0.3 + "px";
   p3.style.top = t11 + y * -0.15 + "px";
-  la.style.top = t12 + y * -0.4 + "px";
+  la.style.top = t12 + (y - 7223) * -0.4 + "px";
+  lb.style.top = t13 + (y - 7223) * -0.4 + "px";
+  lc.style.top = t13 + (y - 7223) * 0.4 + "px";
+  ld.style.top = t13 + (y - 7223) * 0.4 + "px";
   console.log("y =" + y);
   console.log("t12: " + t12);
+  console.log("pageYOffset :" + la.style.top);
 });
