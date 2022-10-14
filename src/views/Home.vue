@@ -144,16 +144,16 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-32"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
     >
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
         <img
           src="../assets/Lucky.png"
           alt="éco-triporteur logo modèle Lucky"
-          class="h-12 xl:h-20 mb-6"
+          class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 xl:px-4 pb-6">
+        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -176,9 +176,9 @@
         <img
           src="../assets/Ruby.svg"
           alt="éco-triporteur logo modèle Ruby"
-          class="h-10 xl:h-16 mb-6"
+          class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 xl:px-4 pb-6">
+        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -195,9 +195,9 @@
         <img
           src="../assets/Tornado.svg"
           alt="éco-triporteur logo modèle Tornado"
-          class="h-12 xl:h-20 mb-6"
+          class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 xl:px-4 pb-6">
+        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -457,12 +457,12 @@
       </p>
     </div>
     <div
-      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12"
+      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 2xl:px-96"
     >
-      <div class="flex flex-col lg:flex-row px-16">
+      <div class="mx-auto flex flex-col lg:flex-row px-16">
         <div class="lg:order-2 lg:p-20">
           <img
-            class="rounded-3xl opacity-90 w-[650px]"
+            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
             src="../assets/Rocket.png"
             alt="éco-triporteur modèle Rocket"
           />
@@ -473,7 +473,7 @@
             alt="éco-triporteur logo modèle Rocket"
             class="h-24 mt-6 mb-6"
           />
-          <p class="px-4 pb-20 md:p-6">
+          <p class="2xl:text-2xl px-4 2xl:px-40 pb-20 md:p-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
           </p>
@@ -482,7 +482,7 @@
       <div class="flex flex-col lg:flex-row px-16">
         <div class="lg:p-20">
           <img
-            class="rounded-3xl opacity-90 w-[650px]"
+            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
             src="../assets/Ringo.png"
             alt="éco-triporteur modèle Ringo"
           />
@@ -493,7 +493,7 @@
             alt="éco-triporteur logo modèle Ringo"
             class="h-24 mt-6 mb-6"
           />
-          <p class="px-4 pb-20 md:p-6">
+          <p class="2xl:text-2xl px-4 2xl:px-40 pb-20 md:p-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
           </p>
