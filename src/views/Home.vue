@@ -1,7 +1,5 @@
 <template>
-  <header
-    class="relative overflow-hidden w-full h-fit pt-12 bg-gradient-to-t from-white to-gray-300"
-  >
+  <header class="relative overflow-hidden w-full h-fit pt-12">
     <div class="pt-8">
       <div class="container h-1/6 md:max-w-8xl mx-auto">
         <nav class="flex flex-wrap items-center justify-center w-full">
@@ -633,7 +631,7 @@
         name="Juicy Création Instagram"
         aria-label="Venez découvrir les références de l'équipe pluridsciplinaire de Juicy Création"
       >
-        <div class="grid grid-cols-2 pt-12 lg:pt-0">
+        <div class="grid grid-cols-2 pt-12 lg:pt-0 px-6">
           <img
             class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta1.jpg"
