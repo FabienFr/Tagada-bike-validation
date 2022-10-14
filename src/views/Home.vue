@@ -222,7 +222,7 @@
       />
     </div>
     <p
-      class="mx-auto w-8/12 border border-4 rounded-lg border-pink text-lg xl:text-2xl text-center text-pink p-6 mt-20"
+      class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border border-4 rounded-lg border-pink text-lg xl:text-2xl text-center text-pink p-6 mt-20"
     >
       Tous nos triporteurs sont disponibles à la location <br />pour la durée de
       vos campagnes de communication <br />de 1 jour à plusieurs mois.
