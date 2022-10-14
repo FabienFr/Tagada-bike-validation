@@ -7,7 +7,7 @@
         <nav class="flex flex-wrap items-center justify-center w-full">
           <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
             <h4
-              class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
+              class="text-2xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
             >
               <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
             </h4>
@@ -23,7 +23,7 @@
           </div>
           <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
             <h4
-              class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
+              class="text-2xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
             >
               <a
                 href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
@@ -58,7 +58,7 @@
       </div>
       <div class="mx-auto h-1/6 pt-8 md:pt-12 lg:pt-20">
         <h1
-          class="text-xl xl:text-3xl text-center text-pink font-extrabold uppercase"
+          class="text-xl xl:text-4xl text-center text-pink font-extrabold uppercase"
         >
           montures de caractère<br />
           pour créateurs d&apos;expériences
@@ -137,25 +137,10 @@
   <section>
     <div class="mx-auto pt-12 md:pt-16 xl:pt-36">
       <h2
-        class="xl:text-3xl text-xl text-center text-pink font-extrabold uppercase"
+        class="xl:text-4xl text-xl text-center text-pink font-extrabold uppercase pb-12"
       >
         éco-triporteur à toute allure
       </h2>
-      <div class="mx-auto flex items-center justify-center px-20 py-5">
-        <a
-          class="pb-2"
-          target="_blank"
-          href="https://www.instagram.com/tagadabike/"
-          name="Tagada Bike Instagram"
-          aria-label="Venez découvrir nos montures sur le champ de course"
-        >
-          <img
-            class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
-            src="../assets/Instagram-Tagadabike.svg"
-            alt=""
-          />
-        </a>
-      </div>
       <div class="flex mx-auto items-center justify-center w-full h-fit">
         <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
           <img
@@ -173,42 +158,42 @@
         <img
           id="point1"
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-[144px] -right-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -top-[144px] -right-32 h-40 xl:h-72"
           alt=""
         />
         <img
           id="point2"
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-[144px] -left-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -top-[144px] -left-32 h-40 xl:h-72"
           alt=""
         />
         <img
           id="point3"
           src="../assets/Point.svg"
-          class="absolute w-full mx-auto -top-[30px] h-72"
+          class="absolute w-full mx-auto -top-[30px] h-40 xl:h-72"
           alt=""
         />
       </div>
-      <div class="">
+      <div class="3xl:mx-96">
         <h2
           class="relative mb-4 py-12 xl:text-3xl text-xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased"
         >
-          Le tiercé gagnant de vos événements *
+          Le tiercé gagnant de vos événements
         </h2>
         <div class="container mx-auto flex flex-row flex-wrap px-6 xl:px-60">
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Sobre et élégante, pop et acidulée ou bien fraiche et distinguée,
               votre monture ne passera jamais inaperçue.
             </p>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Agile, rapidement déployable, que d’atouts réunis pour vos
               lancements de produits, action street marketing, activation de
               marque, festival, etc.
             </p>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Faites le choix d’un attelage atypique vecteur d’attention et de
               curiosité.
             </p>
@@ -216,12 +201,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Conçus au sein de nos ateliers, les coffres des montures Tagada
               Bike sont réalisés à partir de panneaux de plastique recyclé en
               Bretagne.
             </p>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               L’emploi de matériaux issus du réemploi ou bio sourcés est
               privilégié pour tous les autres éléments de fabrication.
             </p>
@@ -229,12 +214,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Imaginée pour s’adapter à toutes les courses, chaque monture
               Tagada Bike est customisable pour répondre au mieux aux besoins de
               son cavalier.
             </p>
-            <p class="pt-2 text-gray-800 text-left xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left">
               Tablettes, porte toppings, bacs isothermes, batterie… choisissez
               l’équipement idéal pour arriver en tête de course.
             </p>
@@ -250,7 +235,7 @@
   >
     <div class="mx-auto">
       <h2
-        class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="xl:text-4xl text-xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         l&apos;écurie
       </h2>
@@ -268,7 +253,7 @@
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 lg:h-20 mb-6"
         />
-        <p class="text-md lg:text-xl text-justify mx-3 pb-6">
+        <p class="text-md lg:text-xl mx-3 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -294,7 +279,7 @@
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 lg:h-16 mb-6"
         />
-        <p class="text-md lg:text-xl text-justify mx-3 pb-6">
+        <p class="text-md lg:text-xl mx-3 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -314,7 +299,7 @@
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 lg:h-20 mb-6"
         />
-        <p class="text-md lg:text-xl text-justify mx-3 pb-6">
+        <p class="text-md lg:text-xl mx-3 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -347,7 +332,7 @@
   <section class="mt-36">
     <div class="mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue">
       <h2
-        class="text-xl xl:text-3xl text-center text-white font-extrabold uppercase"
+        class="text-xl xl:text-4xl text-center text-white font-extrabold uppercase"
       >
         Nos Attelages
       </h2>
@@ -483,7 +468,7 @@
     </div>
     <div class="mx-auto mb-12">
       <h2
-        class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="xl:text-4xl text-xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         nos étalons
       </h2>
@@ -492,7 +477,7 @@
       </p>
     </div>
     <div
-      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12"
+      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white"
     >
       <div class="flex flex-col lg:flex-row px-16">
         <div class="lg:order-2 lg:p-20">
@@ -603,7 +588,7 @@
     </div>
     <div class="mx-auto mb-4 px-4">
       <h3
-        class="xl:text-3xl text-xl text-center text-pink font-bold uppercase px-4 pb-12"
+        class="text-xl xl:text-4xl text-center text-pink font-bold uppercase px-4 pb-12"
       >
         L’aventure Tagada Bike <br />a germé au sein du studio de Juicy Creation
       </h3>
@@ -713,8 +698,20 @@
   </section> -->
   <footer
     text-center
-    class="flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
+    class="relative overflow-hidden flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
   >
+    <img
+      id="etoileA"
+      src="../assets/Etoile_jaune.svg"
+      class="absolute -bottom-20 left-2 lg:left-[450px] h-40 xl:h-64"
+      alt=""
+    />
+    <img
+      id="etoileB"
+      src="../assets/Etoile_jaune.svg"
+      class="absolute -bottom-20 right-2 lg:right-[450px] h-40 xl:h-64"
+      alt=""
+    />
     <div
       class="container flex flex-col lg:flex-row items-start justify-between px-12"
     >
