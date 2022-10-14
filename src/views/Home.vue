@@ -120,6 +120,16 @@
       class="absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
+    <div class="mx-auto h-1/6 pt-8 md:pt-12 lg:pt-20">
+      <div class="mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
+      <h1
+        class="text-xl xl:text-5xl text-center text-pink font-extrabold uppercase"
+      >
+        montures de caractère<br />
+        pour créateurs d&apos;expériences
+      </h1>
+      <div class="mx-auto h-0.5 w-12 mt-8 bg-pink"></div>
+    </div>
   </header>
 
   <!-- Ecurie -->
