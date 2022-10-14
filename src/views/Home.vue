@@ -459,7 +459,7 @@
     <div
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 2xl:px-96"
     >
-      <div class="mx-auto flex flex-col lg:flex-row px-16">
+      <div class="mx-auto flex flex-col lg:flex-row xl:px-16">
         <div class="lg:order-2 lg:p-20">
           <img
             class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
@@ -473,7 +473,7 @@
             alt="éco-triporteur logo modèle Rocket"
             class="h-24 mt-6 mb-6"
           />
-          <p class="2xl:text-2xl px-4 2xl:px-40 pb-20 md:p-6">
+          <p class="2xl:text-2xl px-4 3xl:px-40 pb-20 md:p-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
           </p>
@@ -493,7 +493,7 @@
             alt="éco-triporteur logo modèle Ringo"
             class="h-24 mt-6 mb-6"
           />
-          <p class="2xl:text-2xl px-4 2xl:px-40 pb-20 md:p-6">
+          <p class="2xl:text-2xl px-4 3xl:px-40 pb-20 md:p-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
           </p>
