@@ -62,9 +62,7 @@
           muted
           loop
           autoplay
-          src="../assets/Memories_video home_Tagada_Bike.mp4"
-          data-src-mobile="../assets/Memories_video home_Tagada_Bike.mp44"
-          data-src-desktop="../assets/Memories_video home_Tagada_Bike.mp4"
+          src="../assets/Memories_video_home_Tagada_Bike.mp4"
         >
           <div class="video-error">Uhoh, no video for you.</div>
         </video>
