@@ -71,25 +71,25 @@
     <img
       id="losange1"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-36 xl:h-48"
+      class="absolute opacity-80 -top-12 lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange2"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange3"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-60 top-[275px] md:top-[220px] lg:top-[320px] 2xl:top-[330px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-60 top-[275px] md:top-[220px] lg:top-[320px] 2xl:top-[440px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
@@ -101,13 +101,13 @@
     <img
       id="losange6"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange7"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
@@ -116,15 +116,15 @@
       class="absolute opacity-80 -bottom-[40px] md:-bottom-[80px] xl:top-[700px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
-    <div class="mx-auto h-1/6 pt-8 md:pt-12 lg:pt-20">
-      <div class="mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
+    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 lg:pt-20">
+      <div class="hidden md:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
         class="text-xl xl:text-5xl text-center text-pink font-extrabold uppercase"
       >
         montures de caractère<br />
         pour créateurs d&apos;expériences
       </h1>
-      <div class="mx-auto h-0.5 w-12 mt-8 bg-pink"></div>
+      <div class="hidden md:block mx-auto h-0.5 w-12 mt-8 bg-pink"></div>
     </div>
   </header>
 
@@ -231,24 +231,36 @@
 
   <!-- Tiercé gagnant -->
   <section class="relative mx-auto bg-yellow overflow-hidden mt-20">
-    <div class="mx-auto h-fit">
+    <div class="mx-auto h-fit py-16">
       <div class="flex w-full h-full">
         <img
           id="point1"
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-[144px] -right-32 h-72"
+          class="absolute -top-2 md:-top-[144px] -right-16 md:-right-32 h-40 md:h-72"
           alt=""
         />
         <img
           id="point2"
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-[144px] -left-32 h-72"
+          class="absolute top-[400px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-72"
+          alt=""
+        />
+        <img
+          id="point4"
+          src="../assets/Point.svg"
+          class="md:hidden absolute top-[800px] md:-top-[144px] -right-16 md:-left-32 h-40 md:h-72"
+          alt=""
+        />
+        <img
+          id="point5"
+          src="../assets/Point.svg"
+          class="md:hidden absolute top-[1200px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-72"
           alt=""
         />
         <img
           id="point3"
           src="../assets/Point.svg"
-          class="absolute w-full mx-auto -top-[30px] h-72"
+          class="hidden md:block absolute w-full mx-auto -bottom-12 md:-bottom-[144px] h-40 md:h-72"
           alt=""
         />
       </div>
@@ -459,7 +471,7 @@
     <div
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 2xl:px-96"
     >
-      <div class="mx-auto flex flex-col lg:flex-row xl:px-16">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
         <div class="lg:order-2 lg:p-20">
           <img
             class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
@@ -479,7 +491,7 @@
           </p>
         </div>
       </div>
-      <div class="flex flex-col lg:flex-row px-16">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
         <div class="lg:p-20">
           <img
             class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
@@ -511,25 +523,25 @@
         <img
           id="losangeA"
           src="../assets/LosangeJaune.svg"
-          class="absolute -top-[83px] h-40 xl:h-80"
+          class="absolute top-10 sm:-top-[83px] -left-10 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt=""
         />
         <img
           id="losangeB"
           src="../assets/LosangeJaune.svg"
-          class="absolute -top-12 -right-10 h-40 xl:h-72"
+          class="absolute top-10 sm:-top-[83px] -right-10 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt=""
         />
         <img
           id="losangeC"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-20 right-2 lg:right-60 h-40 xl:h-72"
+          class="absolute -bottom-10 md:-bottom-16 lg:-bottom-20 xl:-bottom-10 2xl:-bottom-20 right-1 sm:right-6 md:right-24 lg:right-28 xl:right-40 2xl:right-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt=""
         />
         <img
           id="losangeD"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-20 left-2 lg:left-60 h-40 xl:h-72"
+          class="absolute -bottom-10 md:-bottom-16 lg:-bottom-20 xl:-bottom-10 2xl:-bottom-20 left-1 sm:left-6 md:left-24 lg:left-28 xl:left-40 2xl:left-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt=""
         />
       </div>
@@ -575,9 +587,7 @@
   </section>
 
   <!-- Aventure -->
-  <section
-    class="relative overflow-hidden mx-auto mt-20 mb-12 bg-gradient-to-b from-white via-gray-200 to-white"
-  >
+  <section class="relative overflow-hidden mx-auto mt-20 mb-12">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -653,30 +663,6 @@
         </div>
       </a>
     </div>
-    <div
-      class="flex flex-col lg:flex-row items-center justify-center pt-12 pb-4"
-    >
-      <img
-        class="h-28 pt-6"
-        src="../assets/Logo-Tagada.svg"
-        alt="logo tagadabike - éco-triporteur pour vos énénements"
-      />
-    </div>
-    <div class="mx-auto flex items-center justify-center px-20">
-      <a
-        class="pb-2"
-        target="_blank"
-        href="https://www.instagram.com/juicy_creation/?hl=fr"
-        name="Juicy Création Instagram"
-        aria-label="Venez découvrir sur Instagram nos montures sur le champ de course"
-      >
-        <img
-          class="h-14 transition hover:duration-500 ease-in-out hover:scale-125 fill-pink"
-          src="../assets/Instagram-Tagadabike.svg"
-          alt=""
-        />
-      </a>
-    </div>
   </section>
 
   <!-- footer -->
@@ -727,3 +713,5 @@
     </div>
   </footer>
 </template>
+
+<style></style>
