@@ -566,26 +566,6 @@
     </div>
   </section>
 
-  <!-- Insta -->
-  <section>
-    <div class="mx-auto pt-12 md:pt-16 xl:pt-20">
-      <h2
-        class="text-xl xl:text-4xl text-center text-pink font-extrabold uppercase pb-10"
-      >
-        éco-triporteur à toute allure
-      </h2>
-
-      <div class="flex mx-auto items-center justify-center w-full h-fit">
-        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
-          <img
-            src="../assets/bandeau-Instagram-new.png"
-            alt="références clients - éco-triporteurs sur mesure"
-          />
-        </a>
-      </div>
-    </div>
-  </section>
-
   <!-- Aventure -->
   <section class="relative overflow-hidden mx-auto mt-20 mb-12">
     <div>
@@ -662,6 +642,26 @@
           />
         </div>
       </a>
+    </div>
+  </section>
+
+  <!-- Insta -->
+  <section>
+    <div class="mx-auto pt-12 md:pt-16 xl:pt-20 pb-32">
+      <h2
+        class="text-xl xl:text-4xl text-center text-pink font-extrabold uppercase pb-10"
+      >
+        éco-triporteur à toute allure
+      </h2>
+
+      <div class="flex mx-auto items-center justify-center w-full h-fit">
+        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
+          <img
+            src="../assets/bandeau-Instagram-new.png"
+            alt="références clients - éco-triporteurs sur mesure"
+          />
+        </a>
+      </div>
     </div>
   </section>
 
