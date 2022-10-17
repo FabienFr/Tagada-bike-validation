@@ -64,7 +64,7 @@
           autoplay
           src="../assets/Memories_video_home_Tagada_Bike.mp4"
         >
-          <div class="video-error">Uhoh, no video for you.</div>
+          <div class="video-error text-pink border-2 p-4">Problème de réseau...</div>
         </video>
       </div>
     </div>
@@ -579,7 +579,7 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative overflow-hidden mx-auto mt-20 mb-12">
+  <section class="relative overflow-hidden mx-auto mt-20 mb-20">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -705,7 +705,7 @@
         <div
           class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
         >
-          <h4 class="text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
+          <h4 class="text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2">
             Le quinté gagnant
           </h4>
           <ul class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0">
@@ -715,11 +715,12 @@
             <li>Retail – Grande Distribution</li>
           </ul>
         </div>
+        <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
         <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
           <h4 class="lg:hidden text-white uppercase text-lg font-bold">
             triporteurs <br />éco-conçus <br />pour événements <br />à votre image
           </h4>
-          <h4 class="hidden lg:block text-white uppercase text-lg xl:text-lg 2xl:text-2xl font-bold">
+          <h4 class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold">
             triporteurs éco-conçus pour événements à votre image
           </h4>
           <br />
@@ -730,19 +731,20 @@
             <bold>Food show</bold>...</span
           >
         </div>
+        <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
         <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
           <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
             pas <br />de formulaire <br />à remplir
           </h4>
-          <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
+          <h4 class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2">
             pas de formulaire à remplir
           </h4>
           <div class="xl:pt-10 2xl:pt-0">
             <span class="text-white text-xs 2xl:text-sm"
-              >Vous avez déjà bien à faire, à nous de cravacher</span
+              >Vous avez déjà bien à faire, <br/>à nous de cravacher.</span
             ><br />
-            <span class="text-white text-xs 2xl:text-sm"
-              >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
+            <span class="text-white text-xs 2xl:text-sm pl-12"
+              >Alors appelez nous,<br/> whatsappez nous, <br/>mailez-nous, <br />et on vous
               répondra au galop !</span
             >
           </div>
