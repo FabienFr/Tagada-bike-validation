@@ -151,7 +151,7 @@
       >
         l&apos;écurie
       </h2>
-      <p class="xl:text-xl text-lg text-center mb-12 uppercase">
+      <p class="text-lg xl:text-xl 2xl:text-3xl text-center mb-12 uppercase">
         Dans les startings blocs pour rencontrer votre audience
       </p>
     </div>
@@ -165,7 +165,7 @@
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -183,7 +183,7 @@
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -202,7 +202,7 @@
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -291,16 +291,16 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Sobre et élégante, pop et acidulée ou bien fraiche et distinguée,
               votre monture ne passera jamais inaperçue.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Agile, rapidement déployable, que d’atouts réunis pour vos
               lancements de produits, action street marketing, activation de
               marque, festival, etc.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Faites le choix d’un attelage atypique vecteur d’attention et de
               curiosité.
             </p>
@@ -308,12 +308,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Conçus au sein de nos ateliers, les coffres des montures Tagada
               Bike sont réalisés à partir de panneaux de plastique recyclé en
               Bretagne.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               L’emploi de matériaux issus du réemploi ou bio sourcés est
               privilégié pour tous les autres éléments de fabrication.
             </p>
@@ -321,12 +321,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Imaginée pour s’adapter à toutes les courses, chaque monture
               Tagada Bike est customisable pour répondre au mieux aux besoins de
               son cavalier.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify">
+            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
               Tablettes, porte toppings, bacs isothermes, batterie… choisissez
               l’équipement idéal pour arriver en tête de course.
             </p>
@@ -434,13 +434,13 @@
           class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full"
         >
           <span class="text-pink text-2xl 2xl:text-5xl">Dimensions</span>
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
             >L = 250</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
             >l = 90</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
             >h = 200</span
           >
         </div>
@@ -480,7 +480,7 @@
       >
         nos étalons
       </h2>
-      <p class="xl:text-xl text-lg text-center uppercase px-4">
+      <p class="text-lg xl:text-xl 2xl:text-3xl text-center uppercase px-4">
         Des montures d’exception pour sortir le grand jeu
       </p>
     </div>
@@ -617,7 +617,7 @@
             class="mx-auto h-16 mb-8"
           />
         </a>
-        <p class="2xl:px-14">
+        <p class="2xl:text-2xl 2xl:px-14">
           Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour
           valoriser les marques et leur fournir le plus beau des écrins.<br /><br />
           Avec ce nouveau projet, nous voulions nous réinventer et nous
