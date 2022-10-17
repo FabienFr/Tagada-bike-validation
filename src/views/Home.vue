@@ -10,7 +10,7 @@
               <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
             </h4>
           </div>
-          <div class="px-6 w-full w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
+          <div class="px-6 w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
             <a href="/" aria-label="Retour à l'accueil">
               <img
                 class="px-8"
@@ -71,7 +71,7 @@
     <img
       id="losange1"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -top-[2%] lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="lg:hidden absolute opacity-80 -top-[2%] lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
@@ -483,10 +483,10 @@
     <div
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
     >
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:pr-32">
         <div class="lg:order-2 lg:p-20 lg:pr-40 2xl:p-0 2xl:mb-24">
           <img
-            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
+            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Rocket.png"
             alt="éco-triporteur modèle Rocket"
           />
@@ -503,10 +503,10 @@
           </p>
         </div>
       </div>
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:pl-32">
         <div class="lg:p-20 lg:pl-40 2xl:p-0">
           <img
-            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
+            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Ringo.png"
             alt="éco-triporteur modèle Ringo"
           />
