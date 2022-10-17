@@ -71,34 +71,34 @@
     <img
       id="losange1"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 -top-12 lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 -top-[2%] lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange2"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-[2%] -left-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange3"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-10 lg:-top-[80px] xl:-top-[120px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-[2%] -right-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[270px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[44%] -right-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange5"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[270px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -left-6 md:left-20 xl:left-48 2xl:left-[550px] h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[44%] -left-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
-    <img
+    <!-- <img
       id="losange6"
       src="../assets/LosangeRose.svg"
       class="absolute opacity-80 top-[275px] md:top-[520px] lg:top-[680px] xl:top-[770px] 2xl:top-[1000px] 3xl:top-[1300px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
@@ -109,23 +109,23 @@
       src="../assets/LosangeRose.svg"
       class="absolute opacity-80 top-[275px] md:top-[520px] lg:top-[680px] xl:top-[770px] 2xl:top-[1000px] 3xl:top-[1300px] -left-6 md:left-20 xl:left-48 2xl:left-[550px] h-24 lg:h-36 xl:h-48"
       alt=""
-    />
+    /> -->
     <img
       id="losange8"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[30px] lg:-bottom-[10px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] -left-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange9"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[30px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] -right-6 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange10"
       src="../assets/LosangeRose.svg"
-      class="absolute xl:hidden opacity-80 -bottom-[40px] md:-bottom-[30px] xl:bottom-[100px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="absolute xl:hidden opacity-80 -bottom-[2%] -right-6 w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
@@ -579,7 +579,7 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative overflow-hidden mx-auto mt-20 mb-20">
+  <section class="relative overflow-hidden mx-auto my-28">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -680,7 +680,7 @@
   <!-- footer -->
   <footer
     text-center
-    class="w-full bg-pink h-fit py-12"
+    class="w-full bg-pink h-fit pt-20 pb-12"
   >
   <div class="mx-auto pb-16">
       <h2
