@@ -131,7 +131,7 @@
     <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
       <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
-        class="text-xl xl:text-5xl 2xl:text-6xl text-center text-pink font-extrabold uppercase"
+        class="text-xl xl:text-5xl 2xl:text-5xl 3xl:text-6xl text-center text-pink font-extrabold uppercase"
       >
         montures de caractère<br />
         pour créateurs d&apos;expériences
@@ -147,11 +147,11 @@
   >
     <div class="mx-auto">
       <h2
-        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         l&apos;écurie
       </h2>
-      <p class="text-lg xl:text-xl 2xl:text-3xl text-center mb-12 uppercase">
+      <p class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center mb-12 uppercase">
         Dans les startings blocs pour rencontrer votre audience
       </p>
     </div>
@@ -165,7 +165,7 @@
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -183,7 +183,7 @@
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -202,7 +202,7 @@
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
+        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -281,13 +281,13 @@
           alt=""
         />
       </div>
-      <div class="">
+      <div>
         <h2
           class="relative mb-4 py-12 text-xl xl:text-4xl 2xl:text-5xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased"
         >
           Le tiercé gagnant de vos événements
         </h2>
-        <div class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-40 3xl:px-96">
+        <div class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-32 3xl:px-96">
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
@@ -351,7 +351,7 @@
           class="aspect-square flex flex-col order-1 items-center justify-center w-full h-full"
         >
           <span
-            class="text-pink text-lg xl:text-3xl 2xl:text-5xl text-center font-extrabold px-1"
+            class="text-pink text-lg xl:text-2xl 2xl:text-4xl 3xl:text-5xl text-center font-extrabold px-1"
             >Trappes d'accès <br/><span class="text-blue">supérieures</span> <br />et <br />
             <span class="text-blue">latérales</span></span
           >
@@ -359,7 +359,7 @@
         <div
           class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-3xl lg:text-4xl 2xl:text-6xl font-bold pt-3"
+          <span class="text-white text-3xl lg:text-4xl 2xl:text-5xl 3xl:text-6xl font-bold pt-3"
             >Coffre</span
           >
           <span class="text-blue text-7xl lg:text-9xl font-extrabold">XL</span>
@@ -370,7 +370,7 @@
         <div
           class="aspect-square flex flex-col order-4 md:order-3 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-5xl lg:text-7xl 2xl:text-9xl font-extrabold"
+          <span class="text-pink text-5xl lg:text-7xl  2xl:text-7xl 3xl:text-9xl font-extrabold"
             >100kg</span
           >
           <span
@@ -382,18 +382,18 @@
           class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-pink"
         >
           <span
-            class="text-white text-2xl lg:text-4xl 2xl:text-6xl text-center font-extrabold"
+            class="text-white text-2xl lg:text-4xl 2xl:text-5xl 3xl:text-6xl text-center font-extrabold"
             >Assistance</span
           >
           <span
-            class="text-blue uppercase text-2xl lg:text-4xl 2xl:text-7xl text-center font-extrabold"
+            class="text-blue uppercase text-2xl lg:text-4xl 2xl:text-5xl 3xl:text-7xl text-center font-extrabold"
             >électrique</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full"
         >
-          <span class="text-blue text-lg lg:text-2xl 2xl:text-5xl text-center"
+          <span class="text-blue text-lg lg:text-2xl 2xl:text-4xl 3xl:text-5xl text-center"
             >surface <br />personnalisable</span
           >
           <div class="flex flex-row">
@@ -405,25 +405,25 @@
           class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-pink"
         >
           <span
-            class="text-blue text-3xl lg:text-4xl xl:text-5xl 2xl:text-8xl font-extrabold"
+            class="text-blue text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl 3xl:text-8xl font-extrabold"
             >tablettes</span
           >
           <span class="text-white text-lg lg:text-xl xl:text-2xl 2xl:text-5xl text-center"
-            >avant et arrière</span
+            >avant <br/>et arrière</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-8 md:order-7 items-center justify-center w-full h-full"
         >
           <span
-            class="text-pink text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-center font-extrabold pt-2"
+            class="text-pink text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl 3xl:text-5xl text-center font-extrabold pt-2"
             >Large choix de <br/><span class="text-blue">décorations</span> <br/>et<br/> <span class="text-blue">accessoires</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-3xl lg:text-5xl xl:6xl 2xl:text-8xl font-extrabold text-blue"
+          <span class="text-3xl lg:text-5xl xl:6xl 2xl:text-6xl 3xl:text-8xl font-extrabold text-blue"
             >Batterie</span
           >
           <span class="text-white text-center text-md xl:text-lg 2xl:text-4xl px-1"
@@ -434,24 +434,24 @@
           class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full"
         >
           <span class="text-pink text-2xl 2xl:text-5xl">Dimensions</span>
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >L = 250</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >l = 90</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-7xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >h = 200</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-lg xl:text-2xl 2xl:text-5xl text-center pb-2 2xl:pb-6"
+          <span class="text-white text-lg xl:text-2xl 2xl:text-4xl 3xl:text-5xl text-center pb-2 2xl:pb-6"
             >Nous étudions <br />toutes vos envies...</span>
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
-            class="p-2 2xl:p-8 bg-blue hover:bg-white text-white hover:text-pink text-lg 2xl:text-5xl uppercase"
+            class="p-2 2xl:p-4 3xl:p-8 bg-blue hover:bg-white text-white hover:text-pink text-lg 2xl:text-4xl 3xl:text-5xl uppercase"
           >
             contact
           </button>
@@ -474,28 +474,28 @@
         alt=""
       />
     </div>
-    <div class="mx-auto mb-12">
+    <div class="mx-auto mb-16">
       <h2
-        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         nos étalons
       </h2>
-      <p class="text-lg xl:text-xl 2xl:text-3xl text-center uppercase px-4">
+      <p class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center uppercase px-4">
         Des montures d’exception pour sortir le grand jeu
       </p>
     </div>
     <div
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
     >
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:pr-32">
-        <div class="lg:order-2 lg:p-20 lg:pr-40 2xl:p-0 2xl:mb-24">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32 xl:pb-16">
+        <div class="lg:order-2 lg:w-5/12 2xl:p-0 2xl:mb-24">
           <img
-            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
+            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px] 2xl:pr-40"
             src="../assets/Rocket.png"
             alt="éco-triporteur modèle Rocket"
           />
         </div>
-        <div class="lg:order-1 flex flex-col items-center justify-center">
+        <div class="lg:order-1 lg:w-7/12 flex flex-col items-center justify-center">
           <img
             src="../assets/Rocket.svg"
             alt="éco-triporteur logo modèle Rocket"
@@ -507,15 +507,15 @@
           </p>
         </div>
       </div>
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:pl-32">
-        <div class="lg:p-20 lg:pl-40 2xl:p-0">
+      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32">
+        <div class=" lg:w-5/12 2xl:p-0">
           <img
-            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
+            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] 2xl:pl-40"
             src="../assets/Ringo.png"
             alt="éco-triporteur modèle Ringo"
           />
         </div>
-        <div class="flex flex-col items-center justify-center">
+        <div class="lg:w-7/12 flex flex-col items-center justify-center">
           <img
             src="../assets/Ringo.svg"
             alt="éco-triporteur logo modèle Ringo"
@@ -583,7 +583,7 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative overflow-hidden mx-auto my-28">
+  <section class="relative overflow-hidden mx-auto mt-28 mb-16">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -596,28 +596,28 @@
         alt=""
       />
     </div>
-    <div class="mx-auto mb-4 px-4">
+    <a
+      href="https://juicycreation.fr/"
+      name="site web juicy création"
+      aria-label="Venez découvrir les nombreuses créations sur mesure & xxl de nos équipes"
+      target="_blank"
+    >
+      <img
+        src="../assets/Juicy_Logo_Or.png"
+        alt=""
+        class="mx-auto h-16 mb-12"
+      />
+    </a>
+    <div class="mx-auto px-4">
       <h3
-        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink font-bold uppercase px-4 pb-10"
+        class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink font-bold uppercase px-4 pb-16"
       >
         L’aventure Tagada Bike <br />a germé au sein du studio de Juicy Creation
       </h3>
     </div>
-    <div class="flex flex-col lg:flex-row items-center justify-center">
-      <div class="w-full lg:w-5/12 px-8 md:px-48 lg:px-6 text-justify">
-        <a
-          href="https://juicycreation.fr/"
-          name="site web juicy création"
-          aria-label="Venez découvrir les nombreuses créations sur mesure & xxl de nos équipes"
-          target="_blank"
-        >
-          <img
-            src="../assets/Juicy_Logo_Or.png"
-            alt=""
-            class="mx-auto h-16 mb-8"
-          />
-        </a>
-        <p class="2xl:text-2xl 2xl:px-14">
+    <div class="flex flex-col lg:flex-row items-center justify-center mb-12">
+      <div class="w-full lg:w-5/12 px-8 md:px-48 lg:px-6">
+        <p class="2xl:text-2xl 2xl:px-10">
           Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour
           valoriser les marques et leur fournir le plus beau des écrins.<br /><br />
           Avec ce nouveau projet, nous voulions nous réinventer et nous
@@ -684,11 +684,11 @@
   <!-- footer -->
   <footer
     text-center
-    class="w-full bg-pink h-fit pt-12 pb-12"
+    class="w-full bg-pink h-fit pt-16 pb-12"
   >
   <div class="mx-auto pb-16">
       <h2
-        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
+        class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
       >
         éco-triporteurs à toute allure
       </h2>
