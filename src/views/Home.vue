@@ -125,7 +125,7 @@
     <img
       id="losange10"
       src="../assets/LosangeRose.svg"
-      class="absolute xl:hidden opacity-80 -bottom-[2%] -right-6 w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="absolute xl:hidden opacity-80 -bottom-[6%] md:-bottom-[2%] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
