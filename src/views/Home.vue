@@ -658,7 +658,7 @@
   </section>
 
   <!-- Insta -->
-  <section>
+  <!-- <section>
     <div class="mx-auto pt-12 md:pt-16 xl:pt-20 pb-32">
       <h2
         class="text-xl xl:text-4xl text-center text-pink font-extrabold uppercase pb-10"
@@ -675,59 +675,77 @@
         </a>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- footer -->
   <footer
     text-center
-    class="flex flex-row mx-auto w-full items-center justify-center bg-pink h-fit py-24"
+    class="w-full bg-pink h-fit py-12"
   >
-    <div
-      class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-16"
-    >
-      <div
-        class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
+  <div class="mx-auto pb-16">
+      <h2
+        class="text-xl xl:text-4xl text-center text-white font-extrabold uppercase pb-10"
       >
-        <h4 class="text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
-          Le quinté gagnant
-        </h4>
-        <ul class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0">
-          <li>Agence évènementielle</li>
-          <li>Traiteur – Restauration – Hôtellerie</li>
-          <li>Festival – Rassemblement festif</li>
-          <li>Retail – Grande Distribution</li>
-        </ul>
+        éco-triporteur à toute allure
+      </h2>
+
+      <div class="flex mx-auto items-center justify-center w-full h-fit">
+        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
+          <img
+            src="../assets/bandeau-Instagram-new.png"
+            alt="références clients - éco-triporteurs sur mesure"
+          />
+        </a>
       </div>
-      <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
-        <h4 class="lg:hidden text-white uppercase text-lg font-bold">
-          triporteurs <br />éco-conçus <br />pour événements <br />à votre image
-        </h4>
-        <h4 class="hidden lg:block text-white uppercase text-lg xl:text-lg 2xl:text-2xl font-bold">
-          triporteurs éco-conçus pour événements à votre image
-        </h4>
-        <br />
-        <span class="text-white text-xs italic"
-          >Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
-          pour vos <bold>évènements</bold>, <bold>lancement de produits</bold>,
-          <bold>activation de marque</bold>, <bold>points d’information</bold>,
-          <bold>Food show</bold>...</span
+    </div>
+    <div class="flex flex-row mx-auto items-center justify-center">
+      <div
+        class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-16"
+      >
+        <div
+          class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
         >
-      </div>
-      <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
-        <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
-          pas <br />de formulaire <br />à remplir
-        </h4>
-        <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
-          pas de formulaire à remplir
-        </h4>
-        <div class="xl:pt-10 2xl:pt-0">
-          <span class="text-white text-xs 2xl:text-sm"
-            >Vous avez déjà bien à faire, à nous de cravacher</span
-          ><br />
-          <span class="text-white text-xs 2xl:text-sm"
-            >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
-            répondra au galop !</span
+          <h4 class="text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
+            Le quinté gagnant
+          </h4>
+          <ul class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0">
+            <li>Agence évènementielle</li>
+            <li>Traiteur – Restauration – Hôtellerie</li>
+            <li>Festival – Rassemblement festif</li>
+            <li>Retail – Grande Distribution</li>
+          </ul>
+        </div>
+        <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
+          <h4 class="lg:hidden text-white uppercase text-lg font-bold">
+            triporteurs <br />éco-conçus <br />pour événements <br />à votre image
+          </h4>
+          <h4 class="hidden lg:block text-white uppercase text-lg xl:text-lg 2xl:text-2xl font-bold">
+            triporteurs éco-conçus pour événements à votre image
+          </h4>
+          <br />
+          <span class="text-white text-xs italic"
+            >Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
+            pour vos <bold>évènements</bold>, <bold>lancement de produits</bold>,
+            <bold>activation de marque</bold>, <bold>points d’information</bold>,
+            <bold>Food show</bold>...</span
           >
+        </div>
+        <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
+          <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
+            pas <br />de formulaire <br />à remplir
+          </h4>
+          <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
+            pas de formulaire à remplir
+          </h4>
+          <div class="xl:pt-10 2xl:pt-0">
+            <span class="text-white text-xs 2xl:text-sm"
+              >Vous avez déjà bien à faire, à nous de cravacher</span
+            ><br />
+            <span class="text-white text-xs 2xl:text-sm"
+              >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
+              répondra au galop !</span
+            >
+          </div>
         </div>
       </div>
     </div>
