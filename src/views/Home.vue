@@ -89,13 +89,13 @@
     <img
       id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[280px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[270px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange5"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[280px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -left-6 md:left-20 xl:left-48 2xl:left-[550px] h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[275px] md:top-[220px] lg:top-[270px] xl:top-[320px] 2xl:top-[440px] 3xl:top-[550px] -left-6 md:left-20 xl:left-48 2xl:left-[550px] h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
@@ -113,30 +113,30 @@
     <img
       id="losange8"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[10px] lg:-bottom-[10px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[30px] lg:-bottom-[10px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -left-2 lg:-left-6 xl:-left-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange9"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[10px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[40px] md:-bottom-[30px] xl:bottom-[100px] 2xl:bottom-[80px] 3xl:bottom-[50px] -right-2 lg:-right-6 xl:-right-12 h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
       id="losange10"
       src="../assets/LosangeRose.svg"
-      class="absolute xl:hidden opacity-80 -bottom-[40px] md:-bottom-[10px] xl:bottom-[100px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="absolute xl:hidden opacity-80 -bottom-[40px] md:-bottom-[30px] xl:bottom-[100px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
-    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-20">
-      <div class="hidden md:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
+    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16">
+      <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
         class="text-xl xl:text-5xl text-center text-pink font-extrabold uppercase"
       >
         montures de caractère<br />
         pour créateurs d&apos;expériences
       </h1>
-      <div class="hidden md:block mx-auto h-0.5 w-12 mt-8 bg-pink"></div>
+      <div class="hidden xl:block mx-auto h-0.5 w-12 mt-8 bg-pink"></div>
     </div>
   </header>
 
@@ -683,24 +683,27 @@
     class="flex flex-row mx-auto w-full items-center justify-center bg-pink h-fit py-24"
   >
     <div
-      class="container flex flex-col lg:flex-row items-start justify-between px-12"
+      class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-0"
     >
       <div
         class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
       >
-        <h4 class="text-white font-bold uppercase text-2xl pb-2">
+        <h4 class="text-white font-bold uppercase text-lg xl:text-2xl pb-2">
           Le quinté gagnant
         </h4>
-        <ul class="text-white text-xs lg:text-sm lg:list-disc">
+        <ul class="text-white text-xs lg:text-sm lg:list-disc xl:pt-12">
           <li>Agence évènementielle</li>
           <li>Traiteur – Restauration – Hôtellerie</li>
           <li>Festival – Rassemblement festif</li>
           <li>Retail – Grande Distribution</li>
         </ul>
       </div>
-      <div class="w-full pb-10 lg-pb-0 lg:w-3/12 text-center text-sm">
-        <h4 class="text-white uppercase text-2xl font-bold">
+      <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
+        <h4 class="lg:hidden text-white uppercase text-lg font-bold">
           triporteurs <br />éco-conçus <br />pour événements <br />à votre image
+        </h4>
+        <h4 class="hidden lg:block text-white uppercase text-lg xl:text-2xl font-bold">
+          triporteurs éco-conçus pour événements à votre image
         </h4>
         <br />
         <span class="text-white text-xs italic"
@@ -711,16 +714,21 @@
         >
       </div>
       <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
-        <h4 class="text-white font-bold uppercase text-2xl pb-2">
+        <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
           pas <br />de formulaire <br />à remplir
         </h4>
-        <span class="text-white text-xs lg:text-sm"
-          >Vous avez déjà bien à faire, à nous de cravacher</span
-        ><br />
-        <span class="text-white text-xs lg:text-sm"
-          >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
-          répondra au galop !</span
-        >
+        <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-2xl pb-2">
+          pas de formulaire à remplir
+        </h4>
+        <div class="xl:pt-12">
+          <span class="text-white text-xs lg:text-sm"
+            >Vous avez déjà bien à faire, à nous de cravacher</span
+          ><br />
+          <span class="text-white text-xs lg:text-sm"
+            >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
+            répondra au galop !</span
+          >
+        </div>
       </div>
     </div>
   </footer>
