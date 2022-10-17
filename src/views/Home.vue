@@ -437,7 +437,6 @@
         >
           <span class="text-white text-lg xl:text-2xl text-center pb-4"
             >Nous étudions <br />toutes vos envies...</span>
-          >
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
             class="px-3 py-3 bg-blue hover:bg-white text-white hover:text-pink text-lg uppercase"
