@@ -128,7 +128,7 @@
       class="absolute xl:hidden opacity-80 -bottom-[40px] md:-bottom-[30px] xl:bottom-[100px] 2xl:top-[780px] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
-    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16">
+    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
       <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
         class="text-xl xl:text-5xl text-center text-pink font-extrabold uppercase"
@@ -143,7 +143,7 @@
   <!-- Ecurie -->
   <section
     id="ecurie"
-    class="overflow-hidden mt-10 pt-6 bg-gradient-to-b from-white via-gray-200 to-white"
+    class="overflow-hidden mt-10 xl:mt-2 pt-6 bg-gradient-to-b from-white via-gray-200 to-white"
   >
     <div class="mx-auto">
       <h2
@@ -234,7 +234,7 @@
       />
     </div>
     <p
-      class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border border-4 rounded-lg border-pink text-lg xl:text-2xl text-center text-pink p-6 mt-20"
+      class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border-4 rounded-lg border-pink text-lg xl:text-2xl text-center text-pink p-6 mt-20"
     >
       Tous nos triporteurs sont disponibles à la location <br />pour la durée de
       vos campagnes de communication <br />de 1 jour à plusieurs mois.
@@ -282,7 +282,7 @@
         >
           Le tiercé gagnant de vos événements
         </h2>
-        <div class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-96">
+        <div class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-40 3xl:px-96">
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
@@ -481,12 +481,12 @@
       </p>
     </div>
     <div
-      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 2xl:px-96"
+      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
     >
       <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
         <div class="lg:order-2 lg:p-20">
           <img
-            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
+            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Rocket.png"
             alt="éco-triporteur modèle Rocket"
           />
@@ -506,7 +506,7 @@
       <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
         <div class="lg:p-20">
           <img
-            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px]"
+            class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Ringo.png"
             alt="éco-triporteur modèle Ringo"
           />
@@ -683,7 +683,7 @@
     class="flex flex-row mx-auto w-full items-center justify-center bg-pink h-fit py-24"
   >
     <div
-      class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-0"
+      class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-16"
     >
       <div
         class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
