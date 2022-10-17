@@ -291,16 +291,16 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Sobre et élégante, pop et acidulée ou bien fraiche et distinguée,
               votre monture ne passera jamais inaperçue.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Agile, rapidement déployable, que d’atouts réunis pour vos
               lancements de produits, action street marketing, activation de
               marque, festival, etc.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Faites le choix d’un attelage atypique vecteur d’attention et de
               curiosité.
             </p>
@@ -308,12 +308,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Conçus au sein de nos ateliers, les coffres des montures Tagada
               Bike sont réalisés à partir de panneaux de plastique recyclé en
               Bretagne.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               L’emploi de matériaux issus du réemploi ou bio sourcés est
               privilégié pour tous les autres éléments de fabrication.
             </p>
@@ -321,12 +321,12 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Imaginée pour s’adapter à toutes les courses, chaque monture
               Tagada Bike est customisable pour répondre au mieux aux besoins de
               son cavalier.
             </p>
-            <p class="pt-2 text-gray-800 text-left 2xl:text-justify 2xl:text-2xl">
+            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
               Tablettes, porte toppings, bacs isothermes, batterie… choisissez
               l’équipement idéal pour arriver en tête de course.
             </p>
@@ -660,26 +660,6 @@
       </a>
     </div>
   </section>
-
-  <!-- Insta -->
-  <!-- <section>
-    <div class="mx-auto pt-12 md:pt-16 xl:pt-20 pb-32">
-      <h2
-        class="text-xl xl:text-4xl text-center text-pink font-extrabold uppercase pb-10"
-      >
-        éco-triporteur à toute allure
-      </h2>
-
-      <div class="flex mx-auto items-center justify-center w-full h-fit">
-        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
-          <img
-            src="../assets/bandeau-Instagram-new.png"
-            alt="références clients - éco-triporteurs sur mesure"
-          />
-        </a>
-      </div>
-    </div>
-  </section> -->
 
   <!-- footer -->
   <footer
