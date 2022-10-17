@@ -1,6 +1,6 @@
 <template>
-  <header class="relative w-full h-fit pt-12">
-    <div class="pt-8">
+  <header class="relative w-full h-fit pt-7">
+    <div class="pt-14 lg:pt-0">
       <div class="container h-1/6 md:max-w-8xl mx-auto">
         <nav class="flex flex-wrap items-center justify-center w-full">
           <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
@@ -10,7 +10,7 @@
               <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
             </button>
           </div>
-          <div class="mt-8 md:mt-2 spx-6 w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
+          <div class="mt-8 md:mt-2 px-6 py-8 w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
             <a href="/" aria-label="Retour à l'accueil">
               <img
                 class="px-8"
@@ -77,13 +77,13 @@
     <img
       id="losange2"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-[2%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
+      class="hidden md:block absolute opacity-80 top-[0.8%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange3"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-[2%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
+      class="hidden md:block absolute opacity-80 top-[0.8%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
@@ -351,30 +351,30 @@
           class="aspect-square flex flex-col order-1 items-center justify-center w-full h-full"
         >
           <span
-            class="text-pink text-lg xl:text-3xl text-center font-extrabold px-1"
-            >Trappes d'accès <span class="text-blue">supérieures</span> <br />et <br />
+            class="text-pink text-lg xl:text-3xl 2xl:text-5xl text-center font-extrabold px-1"
+            >Trappes d'accès <br/><span class="text-blue">supérieures</span> <br />et <br />
             <span class="text-blue">latérales</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-3xl lg:text-4xl font-bold pt-3"
+          <span class="text-white text-3xl lg:text-4xl 2xl:text-6xl font-bold pt-3"
             >Coffre</span
           >
           <span class="text-blue text-7xl lg:text-9xl font-extrabold">XL</span>
-          <span class="pb-3 text-white text-5xl lg:text-6xl font-bold"
+          <span class="pb-3 text-white text-5xl lg:text-6xl 2xl:text-7xl font-bold"
             >500L</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-4 md:order-3 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-5xl lg:text-7xl font-extrabold"
+          <span class="text-pink text-5xl lg:text-7xl 2xl:text-9xl font-extrabold"
             >100kg</span
           >
           <span
-            class="text-blue text2xl lg:text-3xl text-center font-extrabold pt-2"
+            class="text-blue text2xl lg:text-3xl 2xl:text-5xl text-center font-extrabold pt-2"
             >de charge utile</span
           >
         </div>
@@ -382,33 +382,33 @@
           class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-pink"
         >
           <span
-            class="text-white text-2xl lg:text-4xl text-center font-extrabold"
+            class="text-white text-2xl lg:text-4xl 2xl:text-6xl text-center font-extrabold"
             >Assistance</span
           >
           <span
-            class="text-blue uppercase text-2xl lg:text-4xl text-center font-extrabold"
+            class="text-blue uppercase text-2xl lg:text-4xl 2xl:text-7xl text-center font-extrabold"
             >électrique</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full"
         >
-          <span class="text-blue text-lg lg:text-2xl text-center"
+          <span class="text-blue text-lg lg:text-2xl 2xl:text-5xl text-center"
             >surface <br />personnalisable</span
           >
           <div class="flex flex-row">
             <span class="text-pink text-6xl lg:text-9xl font-extrabold">2</span>
-            <span class="text-blue text-xl font-extrabold mt-1">m2</span>
+            <span class="text-blue text-xl 2xl:text-3xl font-extrabold mt-1">m2</span>
           </div>
         </div>
         <div
           class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-pink"
         >
           <span
-            class="text-blue text-3xl lg:text-4xl xl:text-5xl font-extrabold"
+            class="text-blue text-3xl lg:text-4xl xl:text-5xl 2xl:text-8xl font-extrabold"
             >tablettes</span
           >
-          <span class="text-white text-lg lg:text-xl xl:text-2xl text-center"
+          <span class="text-white text-lg lg:text-xl xl:text-2xl 2xl:text-5xl text-center"
             >avant et arrière</span
           >
         </div>
@@ -416,42 +416,42 @@
           class="aspect-square flex flex-col order-8 md:order-7 items-center justify-center w-full h-full"
         >
           <span
-            class="text-pink text-xl lg:text-2xl xl:text-3xl text-center font-extrabold pt-2"
-            >Large choix de <span class="text-blue">décorations</span> et <span class="text-blue">accessoires</span></span
+            class="text-pink text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-center font-extrabold pt-2"
+            >Large choix de <br/><span class="text-blue">décorations</span> <br/>et<br/> <span class="text-blue">accessoires</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-3xl lg:text-5xl xl:6xl font-extrabold text-blue"
+          <span class="text-3xl lg:text-5xl xl:6xl 2xl:text-8xl font-extrabold text-blue"
             >Batterie</span
           >
-          <span class="text-white text-center text-md xl:text-lg px-1"
+          <span class="text-white text-center text-md xl:text-lg 2xl:text-4xl px-1"
             >Rechargez vos équipements</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-2xl">Dimensions</span>
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+          <span class="text-pink text-2xl 2xl:text-5xl">Dimensions</span>
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
             >L = 250</span
           >
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
             >l = 90</span
           >
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+          <span class="text-blue text-2xl xl:text-4xl 2xl:text-8xl font-extrabold"
             >h = 200</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-lg xl:text-2xl text-center pb-2"
+          <span class="text-white text-lg xl:text-2xl 2xl:text-5xl text-center pb-2 2xl:pb-6"
             >Nous étudions <br />toutes vos envies...</span>
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
-            class="px-3 py-3 bg-blue hover:bg-white text-white hover:text-pink text-lg uppercase"
+            class="p-2 2xl:p-8 bg-blue hover:bg-white text-white hover:text-pink text-lg 2xl:text-5xl uppercase"
           >
             contact
           </button>
@@ -499,9 +499,9 @@
           <img
             src="../assets/Rocket.svg"
             alt="éco-triporteur logo modèle Rocket"
-            class="h-24 mt-6 mb-6"
+            class="h-24 mt-6 mb-4"
           />
-          <p class="2xl:text-2xl px-4 3xl:px-40 pb-20 md:p-6">
+          <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
           </p>
@@ -519,9 +519,9 @@
           <img
             src="../assets/Ringo.svg"
             alt="éco-triporteur logo modèle Ringo"
-            class="h-24 mt-6 mb-6"
+            class="h-24 mt-6 mb-4"
           />
-          <p class="2xl:text-2xl px-4 3xl:px-40 pb-20 md:p-6">
+          <p class="2xl:text-2xl px- md:px-48 3xl:px-40 lg:px-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
           </p>
