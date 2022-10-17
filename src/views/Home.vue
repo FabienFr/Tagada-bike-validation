@@ -3,14 +3,14 @@
     <div class="pt-8">
       <div class="container h-1/6 md:max-w-8xl mx-auto">
         <nav class="flex flex-wrap items-center justify-center w-full">
-          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-            <h4
-              class="text-2xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
+          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
+            <button
+              class="text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
               <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
-            </h4>
+            </button>
           </div>
-          <div class="px-6 w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
+          <div class="mt-8 md:mt-2 spx-6 w-2/3 sm:w-1/3 xl:w-1/4 2xl:w-1/6">
             <a href="/" aria-label="Retour à l'accueil">
               <img
                 class="px-8"
@@ -19,9 +19,9 @@
               />
             </a>
           </div>
-          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-            <h4
-              class="text-2xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
+          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
+            <button
+              class="text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
               <a
                 href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
@@ -29,17 +29,17 @@
               >
                 CONTACT
               </a>
-            </h4>
+            </button>
           </div>
-          <div class="flex flex-row mt-5">
-            <div class="sm:hidden px-6 w-1/2">
+          <div class="sm:hidden flex flex-row mt-5">
+            <div class="px-6 w-1/2">
               <h4
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
               >
                 <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
               </h4>
             </div>
-            <div class="sm:hidden px-6 w-1/2">
+            <div class="px-6 w-1/2">
               <h4
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
               >
@@ -77,25 +77,25 @@
     <img
       id="losange2"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-[2%] -left-6 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-[2%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange3"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -top-[2%] -right-6 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -top-[2%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] -right-6 h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[44%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange5"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] -left-6 h-24 lg:h-36 xl:h-48"
+      class="absolute opacity-80 top-[44%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <!-- <img
@@ -113,13 +113,13 @@
     <img
       id="losange8"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[2%] -left-6 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange9"
       src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[2%] -right-6 h-24 lg:h-36 xl:h-48"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
@@ -435,7 +435,7 @@
         <div
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-lg xl:text-2xl text-center pb-4"
+          <span class="text-white text-lg xl:text-2xl text-center pb-2"
             >Nous étudions <br />toutes vos envies...</span>
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
