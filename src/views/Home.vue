@@ -165,7 +165,7 @@
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -183,7 +183,7 @@
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -202,7 +202,7 @@
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 2xl:px-48 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -265,7 +265,19 @@
         <img
           id="point3"
           src="../assets/Point.svg"
-          class="hidden md:block absolute w-full mx-auto -bottom-12 md:-bottom-[144px] h-40 md:h-72"
+          class="hidden md:block absolute w-full mx-auto -bottom-[170px] xl:-top-[144px] h-40 md:h-72"
+          alt=""
+        />
+        <img
+          id="point6"
+          src="../assets/Point.svg"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:left-[16%] 2xl:left-[20%] h-40 md:h-72"
+          alt=""
+        />
+        <img
+          id="point7"
+          src="../assets/Point.svg"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:right-[16%] 2xl:right-[20%] h-40 md:h-72"
           alt=""
         />
       </div>
@@ -326,7 +338,7 @@
 
   <!-- Attelages -->
   <section class="mt-20">
-    <div class="container mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue">
+    <div class="container mx-auto mt-12 md:mt-16 xl:mt-36 py-6 bg-blue">
       <h2
         class="text-xl xl:text-4xl text-center text-white font-extrabold uppercase"
       >
