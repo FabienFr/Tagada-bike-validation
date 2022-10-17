@@ -484,7 +484,7 @@
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
     >
       <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
-        <div class="lg:order-2 lg:p-20">
+        <div class="lg:order-2 lg:p-20 lg:pr-40 2xl:p-0 2xl:mb-24">
           <img
             class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Rocket.png"
@@ -504,7 +504,7 @@
         </div>
       </div>
       <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16">
-        <div class="lg:p-20">
+        <div class="lg:p-20 lg:pl-40 2xl:p-0">
           <img
             class="rounded-3xl opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px]"
             src="../assets/Ringo.png"
@@ -600,7 +600,7 @@
       </h3>
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center">
-      <div class="w-full lg:w-1/3 px-8 md:px-48 lg:px-6 text-justify">
+      <div class="w-full lg:w-5/12 px-8 md:px-48 lg:px-6 text-justify">
         <a
           href="https://juicycreation.fr/"
           name="site web juicy création"
@@ -633,22 +633,22 @@
       >
         <div class="grid grid-cols-2 pt-12 lg:pt-0 px-6">
           <img
-            class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            class="rounded-tl-full object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta1.jpg"
             alt="éco-triporteur pour vos énénements - Snowpark - Juicy création"
           />
           <img
-            class="rounded-tr-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            class="rounded-tr-full object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta2.jpg"
             alt="éco-triporteur pour vos énénements - Muggler - Juicy création"
           />
           <img
-            class="rounded-bl-2xl object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            class="rounded-bl-full object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta3.jpg"
             alt="éco-triporteur pour vos énénements - Val-de-Reuil - Juicy création"
           />
           <img
-            class="rounded-br-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            class="rounded-br-full object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta4.jpg"
             alt="éco-triporteur pour vos énénements - JAmel Comedy Club - Juicy création"
           />
@@ -688,10 +688,10 @@
       <div
         class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
       >
-        <h4 class="text-white font-bold uppercase text-lg xl:text-2xl pb-2">
+        <h4 class="text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
           Le quinté gagnant
         </h4>
-        <ul class="text-white text-xs lg:text-sm lg:list-disc xl:pt-12">
+        <ul class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0">
           <li>Agence évènementielle</li>
           <li>Traiteur – Restauration – Hôtellerie</li>
           <li>Festival – Rassemblement festif</li>
@@ -702,7 +702,7 @@
         <h4 class="lg:hidden text-white uppercase text-lg font-bold">
           triporteurs <br />éco-conçus <br />pour événements <br />à votre image
         </h4>
-        <h4 class="hidden lg:block text-white uppercase text-lg xl:text-2xl font-bold">
+        <h4 class="hidden lg:block text-white uppercase text-lg xl:text-lg 2xl:text-2xl font-bold">
           triporteurs éco-conçus pour événements à votre image
         </h4>
         <br />
@@ -717,14 +717,14 @@
         <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
           pas <br />de formulaire <br />à remplir
         </h4>
-        <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-2xl pb-2">
+        <h4 class="hidden lg:block text-white font-bold uppercase text-lg xl:text-lg 2xl:text-2xl pb-2">
           pas de formulaire à remplir
         </h4>
-        <div class="xl:pt-12">
-          <span class="text-white text-xs lg:text-sm"
+        <div class="xl:pt-10 2xl:pt-0">
+          <span class="text-white text-xs 2xl:text-sm"
             >Vous avez déjà bien à faire, à nous de cravacher</span
           ><br />
-          <span class="text-white text-xs lg:text-sm"
+          <span class="text-white text-xs 2xl:text-sm"
             >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
             répondra au galop !</span
           >
