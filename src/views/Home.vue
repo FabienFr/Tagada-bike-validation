@@ -5,7 +5,7 @@
         <nav class="flex flex-wrap items-center justify-center w-full">
           <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
             <button
-              class="text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
+              class="text-xl lg:text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
               <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
             </button>
@@ -21,7 +21,7 @@
           </div>
           <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
             <button
-              class="text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
+              class="text-xl lg:text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
               <a
                 href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
@@ -71,7 +71,7 @@
     <img
       id="losange1"
       src="../assets/LosangeRose.svg"
-      class="lg:hidden absolute opacity-80 -top-[2%] lg:-top-[80px] xl:-top-[120px] w-full mx-auto h-24 lg:h-36 xl:h-48"
+      class="md:hidden absolute opacity-80 top-[0.8%] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
     <img
@@ -241,43 +241,43 @@
         <img
           id="point1"
           src="../assets/Point.svg"
-          class="absolute -top-2 md:-top-[144px] -right-16 md:-right-32 h-40 md:h-72"
+          class="absolute -top-2 md:-top-[144px] -right-16 md:-right-32 h-40 md:h-60"
           alt=""
         />
         <img
           id="point2"
           src="../assets/Point.svg"
-          class="absolute top-[400px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-72"
+          class="absolute top-[400px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-60"
           alt=""
         />
         <img
           id="point4"
           src="../assets/Point.svg"
-          class="md:hidden absolute top-[800px] md:-top-[144px] -right-16 md:-left-32 h-40 md:h-72"
+          class="md:hidden absolute top-[800px] md:-top-[144px] -right-16 md:-left-32 h-40 md:h-60"
           alt=""
         />
         <img
           id="point5"
           src="../assets/Point.svg"
-          class="md:hidden absolute top-[1200px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-72"
+          class="md:hidden absolute top-[1200px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-60"
           alt=""
         />
         <img
           id="point3"
           src="../assets/Point.svg"
-          class="hidden md:block absolute w-full mx-auto -bottom-[170px] xl:-top-[144px] h-40 md:h-72"
+          class="hidden md:block absolute w-full mx-auto -bottom-[170px] xl:-top-[144px] h-40 md:h-60"
           alt=""
         />
         <img
           id="point6"
           src="../assets/Point.svg"
-          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:left-[16%] 2xl:left-[20%] h-40 md:h-72"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:left-[16%] 2xl:left-[20%] h-40 md:h-60"
           alt=""
         />
         <img
           id="point7"
           src="../assets/Point.svg"
-          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:right-[16%] 2xl:right-[20%] h-40 md:h-72"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:right-[16%] 2xl:right-[20%] h-40 md:h-60"
           alt=""
         />
       </div>
@@ -605,7 +605,7 @@
       <img
         src="../assets/Juicy_Logo_Or.png"
         alt=""
-        class="mx-auto h-16 mb-12"
+        class="mx-auto h-20 mb-12"
       />
     </a>
     <div class="mx-auto px-4">
