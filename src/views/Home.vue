@@ -347,18 +347,18 @@
         >
           <span
             class="text-pink text-lg xl:text-3xl text-center font-extrabold px-1"
-            >Trappes d'accès supérieures <br />et <br />
-            latérales</span
+            >Trappes d'accès <span class="text-blue">supérieures</span> <br />et <br />
+            <span class="text-blue">latérales</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-3xl lg:text-4xl font-bold pt-3 pr-12"
+          <span class="text-white text-3xl lg:text-4xl font-bold pt-3"
             >Coffre</span
           >
           <span class="text-blue text-7xl lg:text-9xl font-extrabold">XL</span>
-          <span class="pb-3 text-white text-5xl lg:text-6xl font-bold pl-8"
+          <span class="pb-3 text-white text-5xl lg:text-6xl font-bold"
             >500L</span
           >
         </div>
@@ -412,7 +412,7 @@
         >
           <span
             class="text-pink text-xl lg:text-2xl xl:text-3xl text-center font-extrabold pt-2"
-            >Large choix de décorations et accessoires</span
+            >Large choix de <span class="text-blue">décorations</span> et <span class="text-blue">accessoires</span></span
           >
         </div>
         <div
@@ -443,11 +443,11 @@
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
           <span class="text-white text-lg xl:text-2xl text-center pb-4"
-            >Nous étudions <br />toutes vos envies...</span
+            >Nous étudions <br />toutes vos envies...</span>
           >
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
-            class="px-3 py-3 bg-white hover:bg-blue border hover:border-2 hover:border-white text-pink hover:text-white text-lg uppercase"
+            class="px-3 py-3 bg-blue hover:bg-white text-white hover:text-pink text-lg uppercase"
           >
             contact
           </button>
@@ -717,7 +717,7 @@
         </div>
         <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
         <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
-          <h4 class="lg:hidden text-white uppercase text-lg font-bold">
+          <h4 class="lg:hidden text-white uppercase text-md font-bold">
             triporteurs <br />éco-conçus <br />pour événements <br />à votre image
           </h4>
           <h4 class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold">
@@ -733,7 +733,7 @@
         </div>
         <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
         <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
-          <h4 class="lg:hidden text-white font-bold uppercase text-lg pb-2">
+          <h4 class="lg:hidden text-white font-bold uppercase text-md pb-2">
             pas <br />de formulaire <br />à remplir
           </h4>
           <h4 class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2">
