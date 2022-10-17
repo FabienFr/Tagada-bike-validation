@@ -131,7 +131,7 @@
     <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
       <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
-        class="text-xl xl:text-5xl text-center text-pink font-extrabold uppercase"
+        class="text-xl xl:text-5xl 2xl:text-6xl text-center text-pink font-extrabold uppercase"
       >
         montures de caractère<br />
         pour créateurs d&apos;expériences
@@ -147,7 +147,7 @@
   >
     <div class="mx-auto">
       <h2
-        class="text-xl xl:text-4xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         l&apos;écurie
       </h2>
@@ -283,7 +283,7 @@
       </div>
       <div class="">
         <h2
-          class="relative mb-4 py-12 text-xl xl:text-4xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased"
+          class="relative mb-4 py-12 text-xl xl:text-4xl 2xl:text-5xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased"
         >
           Le tiercé gagnant de vos événements
         </h2>
@@ -340,7 +340,7 @@
   <section class="mt-20">
     <div class="container mx-auto mt-12 md:mt-16 xl:mt-36 py-6 bg-blue">
       <h2
-        class="text-xl xl:text-4xl text-center text-white font-extrabold uppercase"
+        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-white font-extrabold uppercase"
       >
         Nos Attelages
       </h2>
@@ -476,7 +476,7 @@
     </div>
     <div class="mx-auto mb-12">
       <h2
-        class="text-xl xl:text-4xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase"
       >
         nos étalons
       </h2>
@@ -563,7 +563,7 @@
       </div>
       <div>
         <h3
-          class="relative text-2xl xl:text-4xl font-bold text-gray-800 text-center"
+          class="relative text-2xl xl:text-4xl 2xl:text-5xl font-bold text-gray-800 text-center"
         >
           Votre imagination est sans limite ?<br />Notre créativité aussi !
         </h3>
@@ -598,7 +598,7 @@
     </div>
     <div class="mx-auto mb-4 px-4">
       <h3
-        class="text-xl xl:text-4xl text-center text-pink font-bold uppercase px-4 pb-10"
+        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-pink font-bold uppercase px-4 pb-10"
       >
         L’aventure Tagada Bike <br />a germé au sein du studio de Juicy Creation
       </h3>
@@ -684,13 +684,13 @@
   <!-- footer -->
   <footer
     text-center
-    class="w-full bg-pink h-fit pt-20 pb-12"
+    class="w-full bg-pink h-fit pt-12 pb-12"
   >
   <div class="mx-auto pb-16">
       <h2
-        class="text-xl xl:text-4xl text-center text-white font-extrabold uppercase pb-10"
+        class="text-xl xl:text-4xl 2xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
       >
-        éco-triporteur à toute allure
+        éco-triporteurs à toute allure
       </h2>
 
       <div class="flex mx-auto items-center justify-center w-full h-fit">
