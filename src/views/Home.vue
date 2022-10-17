@@ -1,5 +1,5 @@
 <template>
-  <header class="relative overflow-hidden w-full h-fit pt-12">
+  <header class="relative w-full h-fit pt-12">
     <div class="pt-8">
       <div class="container h-1/6 md:max-w-8xl mx-auto">
         <nav class="flex flex-wrap items-center justify-center w-full">
@@ -158,64 +158,57 @@
     <div
       class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
     >
-      <div class="flex flex-col items-center justify-center lg:mx-8">
+      <div class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
         <img
           src="../assets/Lucky.png"
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
       </div>
-      <div>
+      <div class="order-2">
         <img
           src="../assets/bg-products/1.png"
           alt="éco-triporteur modèle Lucky"
           class="w-42 pb-20 md:pb-0"
         />
       </div>
-      <div class="hidden md:block">
-        <img
-          src="../assets/bg-products/3.png"
-          alt="éco-triporteur modèle Ruby"
-          class="w-42"
-        />
-      </div>
-      <div class="flex flex-col items-center justify-center lg:mx-8">
+      <div class="order-3 md:order-4 flex flex-col items-center justify-center lg:mx-8 md:my-2">
         <img
           src="../assets/Ruby.svg"
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
         </p>
       </div>
-      <div class="md:hidden">
+      <div class="order-4 md:order-3">
         <img
           src="../assets/bg-products/3.png"
           alt="éco-triporteur modèle Ruby"
-          class="w-42 pb-20"
+          class="w-42 pb-20 md:pb-0"
         />
       </div>
-      <div class="flex flex-col items-center justify-center lg:mx-8">
+      <div class="order-5 flex flex-col items-center justify-center lg:mx-8 md:my-2">
         <img
           src="../assets/Tornado.svg"
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-md xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
+        <p class="text-sm xl:text-xl px-0 sm:px-4 xl:px-4 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
         </p>
       </div>
-      <div>
+      <div class="order-6">
         <img
           src="../assets/bg-products/5.png"
           alt="éco-triporteur logo modèle Tornado"
@@ -752,6 +745,7 @@
       </div>
     </div>
   </footer>
+
 </template>
 
 <style></style>
