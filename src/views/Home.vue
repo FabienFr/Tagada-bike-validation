@@ -605,7 +605,7 @@
       >
         <img
           src="../assets/Rocket.svg"
-          alt="éco-triporteur logo modèle Lucky"
+          alt="éco-triporteur logo modèle Rocket"
           class="h-12 sm:h-10 xl:h-28 mt-2 mb-6"
         />
         <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold sm:py-6">Set DJ <br/>pour animations de qualité</h4>
