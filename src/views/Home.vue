@@ -147,7 +147,7 @@
   </header>
 
   <!-- Ecurie -->
-  <section
+  <!-- <section
     id="ecurie"
     class="overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-white via-gray-200 to-white"
   >
@@ -185,7 +185,7 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/Lucky/Eco_triporteur_lucky_3.jpeg"
+              src="../assets/Lucky/Eco_triporteur_lucky_2.jpeg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
@@ -310,7 +310,7 @@
         de vos campagnes de communication <br />de 1 jour à plusieurs mois.
       </p>
     </div>
-  </section>
+  </section> -->
 
   <!-- Tiercé gagnant -->
   <section class="relative mx-auto bg-yellow overflow-hidden mt-20">
@@ -572,7 +572,7 @@
   </section>
 
   <!-- Etalons -->
-  <section class="container mx-auto overflow-hidden relative mt-20">
+  <!-- <section class="container mx-auto overflow-hidden relative mt-20">
     <div class="opacity-50">
       <img
         src="../assets/BandeDePoints.svg"
@@ -689,7 +689,7 @@
         alt=""
       />
     </div>
-  </section>
+  </section> -->
 
   <!-- Imagination -->
   <section
