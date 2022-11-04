@@ -185,7 +185,7 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/Lucky/Eco_triporteur_lucky_2.jpeg"
+              src="../assets/Lucky/Eco_triporteur_lucky_3.jpeg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
