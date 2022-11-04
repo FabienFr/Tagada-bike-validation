@@ -164,7 +164,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 2xl:px-144"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 3xl:px-144"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -598,7 +598,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 2xl:px-144"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 3xl:px-144"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
