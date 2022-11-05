@@ -693,7 +693,7 @@
 
   <!-- Imagination -->
   <section
-    class="relative flex flex-col bg-blue mx-auto w-full overflow-hidden items-center justify-center h-fit mt-20 px-3 py-24"
+    class="relative flex flex-col bg-blue mx-auto w-full overflow-hidden items-center justify-center h-fit mt-28 px-3 py-24"
   >
     <div class="container mx-auto h-fit">
       <div class="flex w-full h-full">
@@ -766,7 +766,7 @@
       <img
         src="../assets/Juicy_Logo_Or.png"
         alt=""
-        class="mx-auto h-20 mb-12"
+        class="mx-auto h-14 xl:h-20 mb-12"
       />
     </a>
     <div class="mx-auto px-4">
