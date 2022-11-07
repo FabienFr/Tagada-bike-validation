@@ -164,7 +164,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 3xl:px-144"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -226,7 +226,7 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/Ruby/Eco_triporteur_ruby_2.jpeg"
+              src="../assets/Ruby/Eco_triporteur_ruby_1.jpeg"
               alt="éco-triporteur modèle Ruby"
               class="w-42"
             />
@@ -240,7 +240,7 @@
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/Ruby/Eco_triporteur_ruby_1.jpeg"
+              src="../assets/Ruby/Eco_triporteur_ruby_2.jpeg"
               alt="éco-triporteur modèle Ruby"
               class="w-42"
             />
@@ -290,12 +290,12 @@
       </div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -left-48 lg:-left-64 h-full"
+        class="absolute rotate-180 top-0 -left-60 sm:-left-24 md:-left-12 lg:-left-32 xl:-left-44 2xl:-left-56 h-full"
         alt=""
       />
       <img
         src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-48 lg:-right-64 h-full"
+        class="absolute rotate-180 top-0 -right-60 sm:-right-24 lg:-right-32 xl:-right-44 2xl:-right-56 h-full"
         alt=""
       />
     </div>
@@ -572,16 +572,16 @@
   </section>
 
   <!-- Etalons -->
-  <section class="container mx-auto overflow-hidden relative mt-20">
+  <section class="mx-auto overflow-hidden relative mt-20 bg-gradient-to-b from-white via-gray-200 to-white">
     <div class="opacity-50">
       <img
         src="../assets/BandeDePoints.svg"
-        class="absolute top-0 -left-16 h-full"
+        class="absolute top-0 -left-16 xl:-left-2 3xl:left-32 5xl:left-68 h-full"
         alt=""
       />
       <img
         src="../assets/BandeDePoints.svg"
-        class="absolute top-0 -right-16 h-full"
+        class="absolute top-0 -right-16 xl:-right-2 3xl:right-32 5xl:right-68 h-full"
         alt=""
       />
     </div>
@@ -598,7 +598,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 3xl:px-144"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -678,16 +678,6 @@
           </swiper-slide>
         </swiper>
       </div>
-      <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -left-48 lg:-left-64 h-full"
-        alt=""
-      />
-      <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-48 lg:-right-64 h-full"
-        alt=""
-      />
     </div>
   </section>
 
@@ -744,7 +734,7 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative overflow-hidden mx-auto mt-28 mb-16">
+  <section class="relative overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -769,7 +759,7 @@
         class="mx-auto h-14 xl:h-20 mb-12"
       />
     </a>
-    <div class="mx-auto px-4">
+    <div class="mx-auto">
       <h3
         class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink font-bold uppercase px-4 pb-16"
       >
@@ -777,8 +767,8 @@
       </h3>
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center mb-12">
-      <div class="w-full lg:w-5/12 px-8 md:px-48 lg:px-6">
-        <p class="2xl:text-2xl 2xl:px-10">
+      <div class="w-full lg:w-5/12">
+        <p class="2xl:text-2xl">
           Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour
           valoriser les marques et leur fournir le plus beau des écrins.<br /><br />
           Avec ce nouveau projet, nous voulions nous réinventer et nous
@@ -824,120 +814,122 @@
 
   <!-- footer -->
   <footer text-center class="w-full bg-pink h-fit pt-16 pb-12">
-    <div class="mx-auto pb-16">
-      <h2
-        class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
-      >
-        éco-triporteurs à toute allure
-      </h2>
-
-      <div class="flex mx-auto items-center justify-center w-full h-fit">
-        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
-          <img
-            src="../assets/bandeau-Instagram-new.png"
-            alt="références clients - éco-triporteurs sur mesure"
-          />
-        </a>
-      </div>
-    </div>
-    <div class="flex flex-row mx-auto items-center justify-center">
-      <div
-        class="container flex flex-col lg:flex-row items-start justify-between px-6 xl:px-16"
-      >
-        <div
-          class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
+    <div class="container mx-auto px-6 xl:px-32 3xl:px-96">
+      <div class="mx-auto pb-16">
+        <h2
+          class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
         >
-          <h4
-            class="text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
-          >
-            Le quinté gagnant
-          </h4>
-          <ul
-            class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0"
-          >
-            <li>Agence évènementielle</li>
-            <li>Traiteur – Restauration – Hôtellerie</li>
-            <li>Festival – Rassemblement festif</li>
-            <li>Retail – Grande Distribution</li>
-          </ul>
+          éco-triporteurs à toute allure
+        </h2>
+  
+        <div class="flex mx-auto items-center justify-center w-full h-fit">
+          <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
+            <img
+              src="../assets/bandeau-Instagram-new.png"
+              alt="références clients - éco-triporteurs sur mesure"
+            />
+          </a>
         </div>
-        <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
-        <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
-          <h4 class="lg:hidden text-white uppercase text-md font-bold">
-            triporteurs <br />éco-conçus <br />pour événements <br />à votre
-            image
-          </h4>
-          <h4
-            class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold"
+      </div>
+      <div class="flex flex-row mx-auto items-center justify-center">
+        <div
+          class="container flex flex-col lg:flex-row items-start justify-between"
+        >
+          <div
+            class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
           >
-            triporteurs éco-conçus pour événements à votre image
-          </h4>
-          <br />
-          <span class="text-white text-xs italic"
-            >Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
-            pour vos <bold>évènements</bold>,
-            <bold>lancement de produits</bold>,
-            <bold>activation de marque</bold>,
-            <bold>points d’information</bold>, <bold>Food show</bold>...</span
-          >
-        </div>
-        <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
-        <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
-          <h4 class="lg:hidden text-white font-bold uppercase text-md pb-2">
-            pas <br />de formulaire <br />à remplir
-          </h4>
-          <h4
-            class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
-          >
-            pas de formulaire à remplir
-          </h4>
-          <div class="xl:pt-10 2xl:pt-0">
-            <span class="text-white text-xs 2xl:text-sm"
-              >Vous avez déjà bien assez à faire, <br/>à nous de cravacher.<br/>On vous répondra au
-              galop !
-            </span><br />
-            <span class="text-white text-xs 2xl:text-sm xl:pl-12"
-              >Brice : <a href="tel:+33688981689">+33 6 88 98 16 89</a><br/>David : <a href="tel:+33673711744">+33 6 73 71 17 44</a><br/><a href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'>contact@tagadabike.com</a><br />
-              </span
+            <h4
+              class="text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
             >
+              Le quinté gagnant
+            </h4>
+            <ul
+              class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0"
+            >
+              <li>Agence évènementielle</li>
+              <li>Traiteur – Restauration – Hôtellerie</li>
+              <li>Festival – Rassemblement festif</li>
+              <li>Retail – Grande Distribution</li>
+            </ul>
+          </div>
+          <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
+          <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
+            <h4 class="lg:hidden text-white uppercase text-md font-bold">
+              triporteurs <br />éco-conçus <br />pour événements <br />à votre
+              image
+            </h4>
+            <h4
+              class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold"
+            >
+              triporteurs éco-conçus pour événements à votre image
+            </h4>
+            <br />
+            <span class="text-white text-xs italic"
+              >Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
+              pour vos <bold>évènements</bold>,
+              <bold>lancement de produits</bold>,
+              <bold>activation de marque</bold>,
+              <bold>points d’information</bold>, <bold>Food show</bold>...</span
+            >
+          </div>
+          <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
+          <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
+            <h4 class="lg:hidden text-white font-bold uppercase text-md pb-2">
+              pas <br />de formulaire <br />à remplir
+            </h4>
+            <h4
+              class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
+            >
+              pas de formulaire à remplir
+            </h4>
+            <div class="xl:pt-10 2xl:pt-0">
+              <span class="text-white text-xs 2xl:text-sm"
+                >Vous avez déjà bien assez à faire, <br/>à nous de cravacher.<br/>On vous répondra au
+                galop !
+              </span><br />
+              <span class="text-white text-xs 2xl:text-sm xl:pl-12"
+                >Brice : <a href="tel:+33688981689">+33 6 88 98 16 89</a><br/>David : <a href="tel:+33673711744">+33 6 73 71 17 44</a><br/><a href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'>contact@tagadabike.com</a><br />
+                </span
+              >
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="container flex mx-auto justify-center pt-8 ">
-      <a
-        aria-label="Chat on WhatsApp"
-        href="https://wa.me/673711744"
-        target="_blank"
-      >
-        <img
-          alt="Chat WhatsApp link"
-          src="../assets/whatsapp-100.svg"
-          class="pr-2 h-10 md:h-12"
-        />
-      </a>
-      <a
-        aria-label="Chat on Linkedin"
-        href="https://www.linkedin.com/showcase/tagada-bike/"
-        target="_blank"
-      >
-        <img
-          alt="Linkedin link"
-          src="../assets/linkedin-icon.svg"
-          class="px-5 h-10 md:h-12"
-        />
-      </a>
-      <a
-        aria-label="Chat on Instagram"
-        href="https://www.instagram.com/tagadabike/?hl=fr"
-        target="_blank"
-      >
-        <img
-          alt="Instagram link"
-          src="../assets/instagram_icon.svg"
-          class="pl-2 h-10 md:h-12"
-        />
-      </a>
+      <div class="container flex mx-auto justify-center pt-8 ">
+        <a
+          aria-label="Chat on WhatsApp"
+          href="https://wa.me/673711744"
+          target="_blank"
+        >
+          <img
+            alt="Chat WhatsApp link"
+            src="../assets/whatsapp-100.svg"
+            class="pr-2 h-10 md:h-12"
+          />
+        </a>
+        <a
+          aria-label="Chat on Linkedin"
+          href="https://www.linkedin.com/showcase/tagada-bike/"
+          target="_blank"
+        >
+          <img
+            alt="Linkedin link"
+            src="../assets/linkedin-icon.svg"
+            class="px-5 h-10 md:h-12"
+          />
+        </a>
+        <a
+          aria-label="Chat on Instagram"
+          href="https://www.instagram.com/tagadabike/?hl=fr"
+          target="_blank"
+        >
+          <img
+            alt="Instagram link"
+            src="../assets/instagram_icon.svg"
+            class="pl-2 h-10 md:h-12"
+          />
+        </a>
+      </div>
     </div>
   </footer>
 </template>
