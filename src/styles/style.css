@@ -29,3 +29,11 @@
   height: 100%;
   object-fit: cover;
 }
+
+.swiper-button-next {
+  color: #fe4463
+}
+
+.swiper-button-prev {
+  color: #fe4463
+}
