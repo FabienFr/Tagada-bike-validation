@@ -164,7 +164,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -581,7 +581,7 @@
       />
       <img
         src="../assets/BandeDePoints.svg"
-        class="absolute top-0 -right-16 xl:-right-2 3xl:right-32 5xl:right-68 h-full"
+        class="absolute rotate-180 top-0 -right-16 xl:-right-2 3xl:right-32 5xl:right-68 w-64 h-full"
         alt=""
       />
     </div>
@@ -598,7 +598,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -734,7 +734,7 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96">
+  <section class="relative overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
     <div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -814,7 +814,7 @@
 
   <!-- footer -->
   <footer text-center class="w-full bg-pink h-fit pt-16 pb-12">
-    <div class="container mx-auto px-6 xl:px-32 3xl:px-96">
+    <div class="container mx-auto px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
       <div class="mx-auto pb-16">
         <h2
           class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
